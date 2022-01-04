@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+*{
+    text-decoration: none;
+    color: black;
+    list-style: none;
+    text-align: center;
+        }
+body {
+    background-color: rgb(225, 233, 193);
+    margin: o;
+    font-family:"Poppins";
+   
+
+}
+.navbar {
+background-color: rgba(255, 187, 0, 0.89);
+padding: 2em;
+
+
+}
+
+.hero {
+background-color:seashell;
+padding: 3em;
+
+}
+
+.linkstyle {
+    text-decoration: none;
+    background-color: cornsilk;
+    border-radius: 4em;
+
+    
+    }
+
+    .secondary-nav {
+text-decoration: none;
+border-radius: 2em;
+padding: 0.02;
+border: black;
+
+    }
+
+    .special donations {
+text-decoration: none;  
+
+
+    }
+    .Titlee {
+float: center;
+font-weight: bolder;
+font-size: 3em;
+color: rgb(49, 166, 221);
+padding-top: 0.2em;
+
+
+    }
+
+    .container{
+
+background-color: rgb(231, 68, 8);
+
+    }
+
+    .hero-img {
+width: 800px;
+height: 600px;
+
+    }
+    
